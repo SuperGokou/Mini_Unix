@@ -1,0 +1,37 @@
+-------------------------------------------------------
+Input File Name			: inputs/input2.txt
+CPU Scheduling Alg		: FIFO
+Throughput			: 0.014 processes / ms
+Avg. Turnaround time		: 234.2ms
+Avg. Waiting time in R queue	: 45.6ms
+------------------------------------------------------
+Input File Name			: inputs/input2.txt
+CPU Scheduling Alg		: SJF
+Throughput			: 0.013 processes / ms
+Avg. Turnaround time		: 262.8ms
+Avg. Waiting time in R queue	: 48.8ms
+-------------------------------------------------------
+Input File Name			: inputs/input2.txt
+CPU Scheduling Alg		: PR
+Throughput			: 0.014 processes / ms
+Avg. Turnaround time		: 228.6ms
+Avg. Waiting time in R queue	: 52.4ms
+-------------------------------------------------------
+Input File Name			: inputs/input2.txt
+CPU Scheduling Alg		: RR quantum: 10
+Throughput			: 0.014 processes / ms
+Avg. Turnaround time		: 227.0ms
+Avg. Waiting time in R queue	: 58.4ms
+-------------------------------------------------------
+Input File Name			: inputs/input2.txt
+CPU Scheduling Alg		: RR quantum: 30
+Throughput			: 0.013 processes / ms
+Avg. Turnaround time		: 234.2ms
+Avg. Waiting time in R queue	: 37.8ms
+-------------------------------------------------------
+Input File Name			: inputs/input2.txt
+CPU Scheduling Alg		: RR quantum: 60
+Throughput			: 0.014 processes / ms
+Avg. Turnaround time		: 234.4ms
+Avg. Waiting time in R queue	: 45.2ms
+-------------------------------------------------------
